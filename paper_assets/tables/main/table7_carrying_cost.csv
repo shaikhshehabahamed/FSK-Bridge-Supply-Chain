@@ -1,0 +1,14 @@
+Metric,Value
+"Baltimore supply share (theta, central)",0.658
+"Implied safety stock, SS (days)","17.6  [7.3, 19.0]"
+Full-fleet parts value ($B/day),0.243
+Buffer value ($B),"4.26  [1.76, 4.61]"
+Carrying-cost rate assumed (%/yr),"22.5  [15, 30]"
+Annual carrying cost of observed buffer ($B/yr),"0.959  [0.639, 1.279]"
+Incremental buffer to fully avert shortfall (days),12.4
+Incremental annual carrying cost ($B/yr),"0.678  [0.452, 0.904]"
+"One-time value avoided by observed buffer, passenger-car ($B)",2.807
+"One-time value avoided by observed buffer, full-fleet est. ($B)",11.227
+"Remaining loss despite buffer, passenger-car ($B)",1.985
+"Break-even years (avoided loss / annual carrying cost), passenger-car scope",2.93
+"Break-even years (avoided loss / annual carrying cost), full-fleet scope",11.70

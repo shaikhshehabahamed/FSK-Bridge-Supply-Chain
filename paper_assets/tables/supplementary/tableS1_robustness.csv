@@ -1,0 +1,12 @@
+Specification,beta2,beta2_se,beta2_p,beta2_sig,beta3,beta3_se,beta3_p,beta3_sig
+"Main (HAC-4, full sample, 2019-2024)",0.12631,0.15798,0.424,ns,-0.02525,0.02419,0.2965,ns
+HAC-2 lags,0.12631,0.17335,0.4662,ns,-0.02525,0.02454,0.3034,ns
+HAC-6 lags,0.12631,0.15588,0.4178,ns,-0.02525,0.02403,0.2933,ns
+HAC-8 lags,0.12631,0.15179,0.4053,ns,-0.02525,0.02298,0.2717,ns
+COVID-excluded (2020-03 to 2021-06 dropped),-0.00311,0.08535,0.971,ns,-0.00029,0.01389,0.9832,ns
+Restricted pre-period (2021-01 to 2024-02),-0.17198,0.09094,0.0586,ns,-0.01516,0.00836,0.0698,ns
+"Levels specification (auto_prod, coefficient /100 for display)",0.19523,0.16579,0.239,ns,-0.02006,0.02263,0.3753,ns
+March 2024 excluded (partial-treatment-month sensitivity),0.07835,0.19694,0.6908,ns,-0.01758,0.03039,0.563,ns
+"False-break test (Baltimore vol, 48 placebo dates)",-2.5669,n/a,n/a,F=11.0 (100th pctile of 48 placebo dates),n/a,n/a,n/a,n/a
+First-differenced spec (non-stationarity robustness),0.08398,0.16605,0.6131,ns,-0.02379,0.02764,0.3895,ns
+PPI first-differenced spec (non-stationarity robustness),-0.15933,0.13374,0.2335,ns,-0.00587,0.02077,0.7775,ns

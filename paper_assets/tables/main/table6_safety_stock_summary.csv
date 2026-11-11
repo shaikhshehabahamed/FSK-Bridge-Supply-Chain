@@ -1,0 +1,10 @@
+Parameter,Value
+theta_central,0.658366669328742
+theta_low,0.36
+theta_high,0.7433113788631779
+ss_central_days,17.573616610219915
+ss_range_low_days,7.274675988523562
+ss_range_high_days,18.993688410039223
+buffer_fraction,0.5857872203406638
+apr_drop_pct,0.2727038881377173
+rerouting_surplus_pct,7.517020495123965

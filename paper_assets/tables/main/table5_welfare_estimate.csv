@@ -1,0 +1,17 @@
+Parameter,Value
+lost_passenger_cars,162018
+production_loss_passenger_B,7.777
+lost_vehicles_all_est,648072
+production_loss_all_B_est,31.11
+wage_loss_shortrun_B,1.823
+wage_loss_longrun_B,5.834
+output_elast_shortrun,0.25
+output_elast_longrun,0.8
+conservative_total_B,9.6
+liberal_total_B,13.61
+atp_usd,48000
+months_covered,Apr-Aug 2024
+note_scope,"DAUPSA=domestic autos only (BEA definition, excludes light trucks); unit=thousands of units/month, seasonally adjusted (NOT an annual rate) -- source: FRED series page for DAUPSA"
+note_scaling,Multiply passenger-car figures by 4 for full-fleet estimate
+note_wage_loss,"Wage-loss channel is a [short-run labor-hoarding, long-run BLS] range, not a point estimate -- the long-run (elast=0.80) figure likely overstates actual impact for this known-temporary shock; see Channel 2 discussion in script output"
+note_dropped_channel,"A 'rerouting logistics premium' channel was dropped 2026-07-19: it was an unsourced $800-1,200/vehicle author guess with no grounding in a published report, already excluded from headline figures before removal"

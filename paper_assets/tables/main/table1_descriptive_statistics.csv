@@ -1,0 +1,19 @@
+Series,Unit,Phase,n,Mean,SD,Min,Max,Change_vs_Pre_pct
+Domestic Auto Production (DAUPSA),"Thousand vehicles/month, SA",Pre (2019-2023),62,156.1016,41.5625,1.7,231.1,0.0
+Domestic Auto Production (DAUPSA),"Thousand vehicles/month, SA",Disruption (Mar-May 2024),3,121.6367,12.397,110.269,134.855,-22.08
+Domestic Auto Production (DAUPSA),"Thousand vehicles/month, SA",Recovery (Jun-Dec 2024),7,114.9071,6.3549,102.606,120.433,-26.39
+PPI: Motor Vehicle Parts Mfg,Index Dec2003=100,Pre (2019-2023),62,119.6337,5.5944,113.6,128.009,0.0
+PPI: Motor Vehicle Parts Mfg,Index Dec2003=100,Disruption (Mar-May 2024),3,128.2823,0.0761,128.234,128.37,7.23
+PPI: Motor Vehicle Parts Mfg,Index Dec2003=100,Recovery (Jun-Dec 2024),7,128.437,0.0801,128.368,128.556,7.36
+Baltimore Import Volume,PortWatch units,Pre (2019-2023),62,4108964.9273,550428.6289,2958920.1887,5308283.22,0.0
+Baltimore Import Volume,PortWatch units,Disruption (Mar-May 2024),3,1385121.6913,2113821.8377,20922.1858,3820065.5739,-66.29
+Baltimore Import Volume,PortWatch units,Recovery (Jun-Dec 2024),7,3861933.4541,1029543.3418,1952715.0884,4874166.9502,-6.01
+HS 8708 CIF Imports,USD billions/mo,Pre (2019-2023),62,6.3572,1.097,2.6684,8.0926,0.0
+HS 8708 CIF Imports,USD billions/mo,Disruption (Mar-May 2024),3,8.027,0.1762,7.8911,8.2261,26.27
+HS 8708 CIF Imports,USD billions/mo,Recovery (Jun-Dec 2024),7,7.3143,0.5395,6.2075,7.8326,15.06
+Total Vehicle Sales,M units SAAR/mo,Pre (2019-2023),62,15.6134,1.8366,8.919,18.574,0.0
+Total Vehicle Sales,M units SAAR/mo,Disruption (Mar-May 2024),3,16.343,0.125,16.21,16.458,4.67
+Total Vehicle Sales,M units SAAR/mo,Recovery (Jun-Dec 2024),7,16.4497,0.5194,15.79,17.301,5.36
+PPI: Petrochemical Mfg [PLACEBO],Index Dec2003=100,Pre (2019-2023),62,150.0237,37.3467,71.0,221.264,0.0
+PPI: Petrochemical Mfg [PLACEBO],Index Dec2003=100,Disruption (Mar-May 2024),3,150.471,3.2157,146.904,153.148,0.3
+PPI: Petrochemical Mfg [PLACEBO],Index Dec2003=100,Recovery (Jun-Dec 2024),7,158.7101,6.4514,151.575,165.716,5.79

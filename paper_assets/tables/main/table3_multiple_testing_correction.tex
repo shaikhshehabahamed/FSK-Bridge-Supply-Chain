@@ -1,0 +1,22 @@
+\begin{table}
+\caption{Benjamini-Hochberg FDR correction across the beta2 coefficient family}
+\label{tab:table3_multiple_testing_correction}
+\begin{tabular}{llrrrr}
+\toprule
+Outcome & Model & p\_value\_raw & q\_value\_BH & Significant\_raw\_p05 & Significant\_BH\_q05 \\
+\midrule
+ln(Auto Production) [PRIMARY] & A: Two-phase ITS (HAC-4) & 0.424 & 0.6135 & False & False \\
+ln(Auto Production) [PRIMARY] & B: Three-phase ITS (HAC-4) & 0.3106 & 0.6135 & False & False \\
+ln(Auto Production) [PRIMARY] & C: AR(1)-augmented ITS (HAC-4) & 0.4305 & 0.6135 & False & False \\
+PPI: MV Parts [PRICE] & A: Two-phase ITS (HAC-4) & 0.1277 & 0.3065 & False & False \\
+PPI: MV Parts [PRICE] & B: Three-phase ITS (HAC-4) & 0.1261 & 0.3065 & False & False \\
+PPI: MV Parts [PRICE] & C: AR(1)-augmented ITS (HAC-4) & 0.0073 & 0.0876 & True & False \\
+ln(HS 8708 CIF) [TRADE] & A: Two-phase ITS (HAC-4) & 0.5405 & 0.6135 & False & False \\
+ln(HS 8708 CIF) [TRADE] & B: Three-phase ITS (HAC-4) & 0.5317 & 0.6135 & False & False \\
+ln(HS 8708 CIF) [TRADE] & C: AR(1)-augmented ITS (HAC-4) & 0.6354 & 0.6354 & False & False \\
+PPI: Petrochem [PLACEBO] & A: Two-phase ITS (HAC-4) & 0.0733 & 0.2932 & False & False \\
+PPI: Petrochem [PLACEBO] & B: Three-phase ITS (HAC-4) & 0.0546 & 0.2932 & False & False \\
+PPI: Petrochem [PLACEBO] & C: AR(1)-augmented ITS (HAC-4) & 0.5624 & 0.6135 & False & False \\
+\bottomrule
+\end{tabular}
+\end{table}
