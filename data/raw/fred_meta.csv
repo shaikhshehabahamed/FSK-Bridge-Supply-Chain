@@ -1,0 +1,8 @@
+label,ticker,title,start,end,n_obs,n_miss,min,max
+ppi_mv_parts_mfg,PCU33633363,PPI: Motor Vehicle Parts Manufacturing,2015-01-01,2024-12-01,120,0,111.6,128.556
+ppi_mv_parts_comm,WPU1412,PPI Commodity: Motor Vehicle Parts,2015-01-01,2024-12-01,120,0,124.7,142.587
+auto_production,DAUPSA,Domestic Auto & Truck Production (SAAR),2015-01-01,2024-12-01,120,0,1.7,395.1
+new_orders_mv,AMTMNO,Mfrs New Orders: Motor Vehicles & Parts,2015-01-01,2024-12-01,120,0,362308.0,603929.0
+vehicle_sales,TOTALSA,Total Vehicle Sales (SAAR),2015-01-01,2024-12-01,120,0,8.919,18.574
+cpi_mv_parts,CUUR0000SETC,CPI: Motor Vehicle Parts & Equipment,2015-01-01,2024-12-01,120,0,141.474,182.566
+ppi_petrochem,PCU325110325110,PPI: Petrochemical Manufacturing [PLACEBO],2015-01-01,2024-12-01,120,0,71.0,221.264
